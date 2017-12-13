@@ -2,8 +2,8 @@
 
 
 pkgname=obarun-install-themes
-_commit=254b558f81505c7639d251301d88c25367e9f874 # tag 0.0.6
-pkgver=0.0.6
+_commit=41c6f0a082df4ba4099a9637cfdaa5062544875d # tag 0.0.7
+pkgver=0.0.7
 pkgrel=1
 pkgdesc="Templates for automatic installation by obarun-install"
 arch=(x86_64)
